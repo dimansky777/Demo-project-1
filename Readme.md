@@ -21,17 +21,9 @@
 
 <title>webpage1</title>
 
-
-<table width="75%" align="center">
-<tbody><tr>
-<td>
-<div align="center"><h1>STARTING . . . </h1></div>
-
-
 </td>
 </tr>
 </tbody></table>
-
 
 </hmtl></body></html>
 '''
